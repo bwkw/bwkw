@@ -8,7 +8,7 @@ Training hard everyday to become a full stack engineer 👨‍💻
 ### 📈 Status
 [![Likes](https://badgen.org/img/zenn/mbao/likes?style=plastic)](https://zenn.dev/mbao)
 [![Followers](https://badgen.org/img/zenn/mbao/followers?style=plastic)](https://zenn.dev/mbao)
-[![Followers](https://badgen.net/twitter/follow/_bwkw_)](https://badgen.net/twitter/follow/_bwkw_)
+[![Followers](https://badgen.net/twitter/follow/_bwkw_)](https://twitter.com/_bwkw_)
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwkw&layout=compact&theme=radical&show_icons=ture" />
