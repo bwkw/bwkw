@@ -11,7 +11,7 @@ Training hard everyday to become a full stack engineer 👨‍💻
 [![Followers](https://badgen.net/twitter/follow/_bwkw_)](https://twitter.com/_bwkw_)
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwkw&layout=compact&theme=radical&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwkw&layout=compact&theme=radical&show_icons=ture&hide=blade,gnuplot" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bwkw&theme=radical&show_icons=true" />
 </p>
 
