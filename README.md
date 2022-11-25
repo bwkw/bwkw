@@ -15,7 +15,7 @@ Training hard everyday to become a full stack engineer 👨‍💻
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bwkw&theme=radical&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bwkw&theme=monokai&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bwkw&theme=monokai&title=MultiLanguage&title=Stars&title=Commit&title=PullRequest&title=Repositories&title=Issues&title=Followers&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📨 Contact
 [Twitter](https://twitter.com/_bwkw_)
