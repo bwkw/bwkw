@@ -1,9 +1,9 @@
 ## 😴 About Me
-Hi, I'm in second year of graduate school and plan to start working as a web engineer in Tokyo in the coming year 👋 <br>
+Hi, I'm a first-year web engineer in Tokyo 👋 <br>
 Training hard everyday to become a full stack engineer 👨‍💻
 
 ### 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,materialui,next,vue,tailwind,php,laravel,py,ruby,latex,aws,linux,docker,mysql,webpack,vite,githubactions,idea,vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,php,laravel,py,aws,linux,docker,mysql,githubactions,idea,vscode,git,github,figma)](https://skillicons.dev)
 
 ### 📈 Status
 [![Likes](https://badgen.org/img/zenn/mbao/likes?style=plastic)](https://zenn.dev/mbao)
