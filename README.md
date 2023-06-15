@@ -3,7 +3,7 @@ Hi, I'm a first-year web engineer in Tokyo 👋 <br>
 Training hard everyday to become a full stack engineer 👨‍💻
 
 ### 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,php,laravel,py,aws,linux,docker,mysql,githubactions,idea,vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,php,laravel,py,aws,linux,docker,mysql,githubactions,idea,git,github,figma)](https://skillicons.dev)
 
 ### 📈 Status
 [![Likes](https://badgen.org/img/zenn/mbao/likes?style=plastic)](https://zenn.dev/mbao)
