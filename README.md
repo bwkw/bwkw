@@ -18,5 +18,4 @@ Training hard everyday to become a full stack engineer 👨‍💻
 
 ### 📨 Contact
 
-<a href="https://twitter.com/_bwkw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bwkw" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/%E7%BF%94%E5%A4%AA-%E5%86%85%E8%97%A4-b37b87270/" target="blank"><img align="center" src="https://github.com/bwkw/bwkw/assets/63583536/ef882635-96eb-4bc4-adb1-4dccc7a186b9" alt="bwkw" height="30" width="40" /></a>
+<a href="https://twitter.com/_bwkw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_bwkw" height="30" width="40" /></a>
