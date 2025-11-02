@@ -15,4 +15,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bwkw&theme=monokai&title=MultiLanguage&title=Commit&title=PullRequest&title=Repositories&title=Stars)](https://github.com/bwkw/github-profile-trophy)
 
 ### 📨 Contact
-<a href="https://twitter.com/_bwkw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_bwkw" height="30" width="40" /></a>
+<a href="https://twitter.com/_bwkw_" target="blank"><img width="30" height="30" alt="logo-white" src="https://github.com/user-attachments/assets/b349ed17-57e8-4063-af04-7b501ae50a11" /></a>
